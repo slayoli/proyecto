@@ -1,0 +1,63 @@
+.mibarra{
+    background-color: rgb(0, 255, 42);
+}
+.nav-link{
+    color: rgb(255, 255, 255);
+}
+.nav-link:hover{
+    color: rgb(140, 196, 147)!important;
+}
+.active{
+    color:  rgb(0, 0, 0)!important;
+}
+.hero-content{
+    background: url("/img/inicio.jpeg") no-repeat center center/cover;
+    height: 100vh;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 0 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.intro{
+    font-size: 20px;
+    margin: 0 auto 10px;
+    margin-top: 70px;
+    max-width: 700px;
+    line-height: 1.6cm;
+}
+
+footer{
+    background-color: rgb(0, 255, 42);
+    color: rgb(0, 0, 0);
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.card-title{
+color: rgb(5, 83, 22);
+background-color: rgb(163, 245, 170);
+}
+
+.container{
+    height: 550px;
+    margin-top: 0 !important;
+    padding: 20px;
+}
+
+body{
+    height: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main{
+    background-color: rgb(166, 219, 175);
+    margin: 0px;
+}
+
+.card-img-top{
+    height: 200px;   
+}
+
